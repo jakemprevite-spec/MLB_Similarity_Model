@@ -58,7 +58,7 @@ similarity_engine_search.ipynb  Interactive search for hitters and pitchers
 ## Getting started
 
 ```
-git clone https://github.com/<your-username>/MLB_Similarity.git
+git clone https://github.com/jakemprevite-spec/MLB_Similarity.git
 cd MLB_Similarity
 python -m venv .venv
 .venv\Scripts\activate          # Windows (macOS/Linux: source .venv/bin/activate)
