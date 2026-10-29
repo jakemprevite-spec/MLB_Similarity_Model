@@ -1,0 +1,7 @@
+pandas>=3.0
+numpy>=2.5
+scikit-learn>=1.9
+pybaseball>=2.2.7
+
+# Only needed to run the notebooks
+jupyter
